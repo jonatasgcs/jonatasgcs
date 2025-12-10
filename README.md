@@ -41,14 +41,6 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
 
 ##
 
-<div align="center">
-  
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasgcs&theme=ayu_mirage"/>
-</div>
-
-##
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -147,6 +139,11 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
 <br/><br/>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatasgcs&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonatasgcs&theme=tokyonight&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasgcs&theme=tokyonight)
 ##
     
 
