@@ -39,7 +39,6 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
     </a>
 </p>
 
-<img align="right" alt="Estudando" height="190px" src="./src/study.gif" style="margin-top: 10px;">
 
 ##
 
