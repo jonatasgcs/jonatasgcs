@@ -1,11 +1,46 @@
 ## Olá! Eu sou o Jonatas Gabriel 🖐️
 
+**`Desenvolvedor Back-end`**
+
 
 💻 **Desenvolvedor Back-end** focado no ecossistema **JavaScript**  
 🚀 Trabalho com **Node.js, Express, MySQL** e tenho experiência com **HTML, CSS e PHP**  
 📚 Atualmente estudando **TypeScript e React** para evoluir como desenvolvedor  
 🎓 Graduando em **Engenharia da Computação** — Universidade CEUMA 
-
+<p align="left">
+    <a href="https://github.com/jonatasgcs?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jonatasgcs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/jonatasgcs?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jonatasgcs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/SEUNUMEROCOMDDD" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+            alt="WhatsApp"
+        />
+    </a>
+    <a href="mailto:jonatasgcs40@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+            alt="Email"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/jonatas-santos-a3842b328" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            alt="LinkedIn"
+        />
+    </a>
+</p>
 
 ##
 
@@ -97,9 +132,4 @@
 
 ##
     
-## Meios de contato
-<div>  
-  <a href = "mailto:jonatasgcs40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatas-santos-a3842b328" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
-</div>
 
