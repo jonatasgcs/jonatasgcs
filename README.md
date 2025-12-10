@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Jonatas Gabriel 🖐️
 
 
-💻 Desenvolvedor Back-end com foco no ecossistema JavaScript.
-🚀 Trabalho com Node.js, Express, MySQL e possuo experiência com HTML, CSS e PHP.
-📚 Em constante evolução estudando TypeScript e React.
-🎓 Graduando em Engenharia da Computação (Universidade CEUMA).
+💻 **Desenvolvedor Back-end** focado no ecossistema **JavaScript**  
+🚀 Trabalho com **Node.js, Express, MySQL** e tenho experiência com **HTML, CSS e PHP**  
+📚 Atualmente estudando **TypeScript e React** para evoluir como desenvolvedor  
+🎓 Graduando em **Engenharia da Computação** — Universidade CEUMA 
 
 ## Tecnologias que eu uso no meu dia
 
