@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jonatas Gabriel 🖐️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B3EF7&width=435&lines=Ol%C3%A1!+Eu+sou+o+Jonatas+Gabriel+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
 
 **`Desenvolvedor Back-end`**
 
