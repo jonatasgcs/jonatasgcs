@@ -3,10 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 
-💻 **Desenvolvedor Back-end** focado no ecossistema **JavaScript**  
-🚀 Trabalho com **Node.js, Express, MySQL** e tenho experiência com **HTML, CSS e PHP**  
-📚 Atualmente estudando **TypeScript e React** para evoluir como desenvolvedor  
-🎓 Graduando em **Engenharia da Computação** — Universidade CEUMA 
+Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com experiência prática em Node.js, Express e MySQL, além de conhecimentos em HTML, CSS e PHP. Tenho me aprofundado em TypeScript e React para ampliar minhas competências e dominar tecnologias amplamente utilizadas no mercado. Busco evolução contínua por meio de projetos próprios, estudos direcionados e boas práticas de desenvolvimento. Atualmente curso Engenharia da Computação na Universidade CEUMA, consolidando uma formação sólida que complementa minha atuação na área. 
 <p align="left">
     <a href="https://github.com/jonatasgcs?tab=repositories&sort=stargazers">
         <img 
@@ -128,7 +125,27 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    />
+
+
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />
+        
 <br/><br/>
+
 
 ##
     
