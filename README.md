@@ -39,6 +39,8 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
     </a>
 </p>
 
+<img align="right" alt="Estudando" height="190px" src="./src/study.gif" style="margin-top: 10px;">
+
 ##
 
 ### 🤖 Linguagens e Tecnologias
@@ -138,6 +140,8 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
         
 <br/><br/>
 
+##
+
 ### 🤖 Estatísticas
 
 <div align="center">
@@ -159,6 +163,8 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
         style="margin-top: 10px;"
     />
 </div>
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonatasgcs/jonatasgcs/output/github-contribution-grid-snake-dark.svg">
