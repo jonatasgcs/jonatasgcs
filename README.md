@@ -143,22 +143,22 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
 <div align="center">
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
         <img 
-            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatasgcs&theme=tokyonight"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonatasgcs&theme=algolia"
             alt="Estatísticas do GitHub"
             style="max-width: 48%;"
         />
        <img 
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonatasgcs&theme=tokyonight&utcOffset=8"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonatasgcs&theme=algolia&utcOffset=8"
             alt="Tempo Produtivo"
             style="max-width: 48%;"
         />
     </div>
     <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasgcs&theme=tokyonight"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatasgcs&theme=algolia"
         alt="Detalhes do Perfil"
         style="margin-top: 10px;"
     />
 </div>
 
-    
+
 
