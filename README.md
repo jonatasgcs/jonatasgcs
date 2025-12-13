@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-
-Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, Node.js, Express e MySQL, além de conhecimentos em HTML, CSS e PHP. Tenho me aprofundado em TypeScript e React para ampliar minhas competências e dominar tecnologias amplamente utilizadas no mercado. Busco evolução contínua por meio de projetos próprios, estudos direcionados e boas práticas de desenvolvimento. Atualmente curso Engenharia da Computação na Universidade CEUMA, consolidando uma formação sólida que complementa minha atuação na área. 
+Focado no desenvolvimento de soluções utilizando o ecossistema JavaScript (Node.js, TypeScript e React). Com conhecimento em Node.js, Express e MySQL para criação de APIs e backend, e tenho familiaridade com HTML, CSS e PHP. Estou em fase de aprofundamento em TypeScript e React para consolidar minhas competências Full-Stack. Busco evolução contínua por meio de projetos próprios, estudos direcionados e boas práticas de desenvolvimento. Atualmente, curso Engenharia da Computação na Universidade CEUMA, complementando minhas habilidades técnicas com uma formação sólida na área. 
 <p align="left">
    <a href="https://github.com/jonatasgcs?tab=repositories&sort=stargazers">
     <img 
