@@ -5,19 +5,20 @@
 
 Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, Node.js, Express e MySQL, além de conhecimentos em HTML, CSS e PHP. Tenho me aprofundado em TypeScript e React para ampliar minhas competências e dominar tecnologias amplamente utilizadas no mercado. Busco evolução contínua por meio de projetos próprios, estudos direcionados e boas práticas de desenvolvimento. Atualmente curso Engenharia da Computação na Universidade CEUMA, consolidando uma formação sólida que complementa minha atuação na área. 
 <p align="left">
-    <a href="https://github.com/jonatasgcs?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jonatasgcs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/jonatasgcs?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jonatasgcs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+   <a href="https://github.com/jonatasgcs?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://img.shields.io/github/stars/jonatasgcs?style=for-the-badge&label=Estrelas&logo=star&color=55960c&labelColor=488207"
+    />
+</a>
+<a href="https://github.com/jonatasgcs?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/jonatasgcs?style=for-the-badge&label=Seguidores&logo=github&color=236ad3&labelColor=1155ba"
+    />
+</a>
     </a>
     <a href="https://wa.me/SEUNUMEROCOMDDD" target="_blank">
         <img 
