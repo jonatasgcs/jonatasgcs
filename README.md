@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1!+Eu+sou+o+Jonatas+Gabriel+%F0%9F%96%90%EF%B8%8F;Engenharia+de+Computa%C3%A7%C3%A3o+%7C+An%C3%A1lise+de+Dados;SQL+%7C+Power+BI+%7C+Business+Intelligence)](https://git.io/typing-svg)
 
 <h1 align="center">Jonatas Gabriel Costa Santos</h1>
 
